@@ -1,0 +1,5 @@
+aiohttp
+discord.py-interactions[voice]
+openai
+ffmpeg-python
+datetime

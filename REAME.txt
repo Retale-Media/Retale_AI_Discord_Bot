@@ -1,0 +1,25 @@
+Retale AI Discord Bot
+Overview
+The Retale AI Discord Bot, powered by OpenAI's GPT-4, enhances Discord server interactions. It features voice transcription, text-to-speech responses, text-based game participation, and DALL-E 3 image generation. Ideal for community servers and gaming groups, it offers a customizable and engaging AI experience.
+
+Requirements
+Discord Account
+Server Access
+OpenAI Account with API Key
+Discord Bot Token
+Python Installation
+Required Libraries (as listed in requirements.txt)
+FFMPEG Installation
+Setup and Configuration
+Follow the detailed tutorial for initial setup, configuration of API keys and JSON files, Discord bot registration, and running the bot.
+
+Usage
+Utilize commands like /listen, /stop_listening, /create_image, and toggle features for audio, text, and illustrations.
+
+Customization and Support
+Customize the bot script, add new features, and access support through community channels.
+
+Legal and Guidelines
+Adhere to the terms of use and API usage limits.
+
+For detailed setup instructions and more information, please refer to the comprehensive tutorial provided with the bot's source code.

@@ -1,0 +1,4 @@
+{
+    "retale_helper": {"assistant_id": "asst_id goes here", "thread_id": "thread_id goes here"},
+	"assistant_name": {"assistant_id": "asst_abc", "thread_id": "thread_abc"}
+  }
